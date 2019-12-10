@@ -1,0 +1,46 @@
+{
+  "employees": [
+    {
+      "id": "6430e3dc-0f7a-4c71-807f-ceb20132fd87",
+      "first_name": "Arkadiy",
+      "last_name": "Brodskiy",
+      "email": "ark@email.com"
+    },
+    {
+      "id": "6430e3dc-0f7a-4c71-807f-feb9d132fd87",
+      "first_name": "Josh",
+      "last_name": "Gilbert",
+      "email": "josh@email.com"
+    },
+    {
+      "id": "6430e3dc-0f7a-4c71-807f-ceb2d132fd87",
+      "first_name": "Devin",
+      "last_name": "Gaenz",
+      "email": "devin@email.com"
+    },
+    {
+      "id": "6430e3dc-0f7a-4c71-807f-ceb9d122fd87",
+      "first_name": "Calvin",
+      "last_name": "Webster",
+      "email": "calvin@email.com"
+    },
+    {
+      "first_name": "Bozo",
+      "last_name": "Clown",
+      "email": "calvin@test.com",
+      "id": "6430e3dc-0f7a-4c71-807f-ceb9d132fd85"
+    },
+    {
+      "first_name": "Dumbo",
+      "last_name": "Elephanbt",
+      "email": "dumbo@ele.com",
+      "id": "7EREmQn"
+    },
+    {
+      "first_name": "Dumbo",
+      "last_name": "Elephanbt",
+      "email": "dumbo@ele.com",
+      "id": "eM_drbt"
+    }
+  ]
+}
