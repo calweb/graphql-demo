@@ -1,5 +1,5 @@
 const {employees} = require('../db.json')
-const { cards } = require('../scryfall-default-cards.json')
+const books = require('../books.json')
 const uuid = require('uuid')
 module.exports = {
     Query: {
@@ -8,9 +8,11 @@ module.exports = {
             
             return employees
         },
-        allCards: (root, _) => {
-            console.log(root)
-            return cards
+        allBooks: (root, args) => {
+            return books
+        },
+        getBookById: (parent, { id } ) => {
+            return books.find(book => book.id === id)
         }
     },
     Mutation: {
